@@ -145,18 +145,14 @@ Ver [`dark_colors.yaml`](./dark_colors.yaml)
 
 ### Paleta de Colores Terminal
 
-```Hexa
-#B4E1FD
-```
-
-|											| Texto				|Fondo			|
-|---------------------|-------------|-----------|
-||Color Predeterminado |![#B4E1FD](https://via.placeholder.com/15/B4E1FD/000000?text=+) `#B4E1FD`|![#0D1926](https://via.placeholder.com/15/0D1926/000000?text=+) `#0D1926`|
-|off|Color de Negrita (bold)|![#B4E1FD](https://via.placeholder.com/15/B4E1FD/000000?text=+) `#B4E1FD`||
-|on|Color de Cursor			|![#00283E](https://via.placeholder.com/15/00283E/000000?text=+) `#00283E`|![#00A3FF](https://via.placeholder.com/15/00A3FF/000000?text=+) `#00A3FF`|
-|off|Color de Resaltado		|![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`|![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`|
+||											| Texto				|Fondo			|
+|---|---------------------|-------------|-----------|
+||Color Predeterminado |![#B4E1FD](https://via.placeholder.com/15/B4E1FD/B4E1FD.png) `#B4E1FD`|![#0D1926](https://via.placeholder.com/15/0D1926/0D1926.png) `#0D1926`|
+|off|Color de Negrita (bold)|![#B4E1FD](https://via.placeholder.com/15/B4E1FD/B4E1FD.png) `#B4E1FD`|
+|on|Color de Cursor			|![#00283E](https://via.placeholder.com/15/00283E/00283E.png) `#00283E`|![#00A3FF](https://via.placeholder.com/15/00A3FF/00A3FF.png) `#00A3FF`|
+|off|Color de Resaltado		|![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF`|![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000`|
 
 |A  			|B				|C			  |D				|E			  |F			  |G			  |H			  |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-|![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`|![#FF0071](https://via.placeholder.com/15/FF0071/000000?text=+) `#FF0071`|![#83FF08](https://via.placeholder.com/15/83FF08/000000?text=+) `#83FF08`|![#14FF08](https://via.placeholder.com/15/14FF08/000000?text=+) `#14FF08`|![#0883FF](https://via.placeholder.com/15/0883FF/000000?text=+) `#0883FF`|![#8308FF](https://via.placeholder.com/15/8308FF/000000?text=+) `#8308FF`|![#08FF83](https://via.placeholder.com/15/08FF83/000000?text=+) `#08FF83`|![#54CAFD](https://via.placeholder.com/15/54CAFD/000000?text=+) `#54CAFD`|
-|![#006488](https://via.placeholder.com/15/006488/000000?text=+) `#006488`|![#FF0071](https://via.placeholder.com/15/FF0071/000000?text=+) `#FF0071`|![#8EFF1E](https://via.placeholder.com/15/8EFF1E/000000?text=+) `#8EFF1E`|![#14FF08](https://via.placeholder.com/15/14FF08/000000?text=+) `#14FF08`|![#1E8EFF](https://via.placeholder.com/15/1E8EFF/000000?text=+) `#1E8EFF`|![#8E1EFF](https://via.placeholder.com/15/8E1EFF/000000?text=+) `#8E1EFF`|![#1EFF8E](https://via.placeholder.com/15/1EFF8E/000000?text=+) `#1EFF8E`|![#C2C2C2](https://via.placeholder.com/15/C2C2C2/000000?text=+) `#C2C2C2`|
+|![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000`|![#FF0071](https://via.placeholder.com/15/FF0071/FF0071.png) `#FF0071`|![#83FF08](https://via.placeholder.com/15/83FF08/83FF08.png) `#83FF08`|![#14FF08](https://via.placeholder.com/15/14FF08/14FF08.png) `#14FF08`|![#0883FF](https://via.placeholder.com/15/0883FF/0883FF.png) `#0883FF`|![#8308FF](https://via.placeholder.com/15/8308FF/8308FF.png) `#8308FF`|![#08FF83](https://via.placeholder.com/15/08FF83/08FF83.png) `#08FF83`|![#54CAFD](https://via.placeholder.com/15/54CAFD/54CAFD.png) `#54CAFD`|
+|![#006488](https://via.placeholder.com/15/006488/006488.png) `#006488`|![#FF0071](https://via.placeholder.com/15/FF0071/FF0071.png) `#FF0071`|![#8EFF1E](https://via.placeholder.com/15/8EFF1E/8EFF1E.png) `#8EFF1E`|![#14FF08](https://via.placeholder.com/15/14FF08/14FF08.png) `#14FF08`|![#1E8EFF](https://via.placeholder.com/15/1E8EFF/1E8EFF.png) `#1E8EFF`|![#8E1EFF](https://via.placeholder.com/15/8E1EFF/8E1EFF.png) `#8E1EFF`|![#1EFF8E](https://via.placeholder.com/15/1EFF8E/1EFF8E.png) `#1EFF8E`|![#C2C2C2](https://via.placeholder.com/15/C2C2C2/C2C2C2.png) `#C2C2C2`|
