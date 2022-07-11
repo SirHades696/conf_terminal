@@ -144,6 +144,11 @@ dir:               dodgerblue
 Ver [`dark_colors.yaml`](./dark_colors.yaml)
 
 ### Paleta de Colores Terminal
+
+```Hexa
+#B4E1FD
+```
+
 |											| Texto				|Fondo			|
 |---------------------|-------------|-----------|
 ||Color Predeterminado |![#B4E1FD](https://via.placeholder.com/15/B4E1FD/000000?text=+) `#B4E1FD`|![#0D1926](https://via.placeholder.com/15/0D1926/000000?text=+) `#0D1926`|
