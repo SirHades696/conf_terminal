@@ -1,0 +1,1 @@
+/home/hades/.p10k.zsh
