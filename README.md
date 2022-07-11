@@ -144,8 +144,8 @@ dir:               dodgerblue
 Ver [`dark_colors.yaml`](./dark_colors.yaml)
 
 ### Paleta de Colores Terminal
-||											| Texto				|Fondo			|
-|--|---------------------|-------------|-----------|
+|											| Texto				|Fondo			|
+|---------------------|-------------|-----------|
 ||Color Predeterminado |![#B4E1FD](https://via.placeholder.com/15/B4E1FD/000000?text=+) `#B4E1FD`|![#0D1926](https://via.placeholder.com/15/0D1926/000000?text=+) `#0D1926`|
 |off|Color de Negrita (bold)|![#B4E1FD](https://via.placeholder.com/15/B4E1FD/000000?text=+) `#B4E1FD`||
 |on|Color de Cursor			|![#00283E](https://via.placeholder.com/15/00283E/000000?text=+) `#00283E`|![#00A3FF](https://via.placeholder.com/15/00A3FF/000000?text=+) `#00A3FF`|
