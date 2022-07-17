@@ -31,7 +31,7 @@ else
   printf "  * LSD \n"
   printf "  * Zsh \n"
   printf "  * Oh-My-Zsh\n"
-  printf " * BatCat \n"
+  printf "  * BatCat \n"
   printf "${BLUE}Author: ${GREEN}SirHades696${NC}\n"
   printf "${BLUE}Repo at: ${GREEN}https://github.com/SirHades696/conf_terminal/${NC}\n"
 
@@ -106,9 +106,10 @@ else
         printf "${GREEN}Installing Colorls${NC}\n"
         sudo gem install colorls
       fi
-      if [ gem list colorls -i ]; then
+      cls=$(gem list colorls -i)
+      if [ "$cls" = "true" ]; then
         source $(dirname $(gem which colorls))/tab_complete.sh
-        cp $(dirname $(gem which colorls))/yaml ~/.config/colorls
+        cp -r $(dirname $(gem which colorls))/yaml ~/.config/colorls
       fi
     fi
 
