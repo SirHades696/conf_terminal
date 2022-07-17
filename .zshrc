@@ -151,5 +151,5 @@ command -v colorls > /dev/null && alias ls='colorls --sd --gs' && \
 
 # Tilix config (delete error)
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
-        source /etc/profile.d/vte.sh
+	source /etc/profile.d/vte.sh
 fi
