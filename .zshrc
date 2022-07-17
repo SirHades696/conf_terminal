@@ -130,6 +130,7 @@ alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 alias diff='diff --color=auto'
+alias ip='ip --color=auto'
 
 # batcat = CAT
 command -v batcat > /dev/null && \
@@ -147,3 +148,8 @@ command -v lsd > /dev/null && alias ls='lsd --group-dirs first' && \
 	alias tree='lsd --tree --gs --report'
 command -v colorls > /dev/null && alias ls='colorls --sd --gs' && \
 	alias tree='colorls --tree --gs --report'
+
+# Tilix config (delete error)
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+        source /etc/profile.d/vte.sh
+fi
