@@ -1,0 +1,40 @@
+[/]
+default='87c159fc-e5ef-4362-abfa-cd1d7420dded'
+list=['87c159fc-e5ef-4362-abfa-cd1d7420dded']
+
+[:87c159fc-e5ef-4362-abfa-cd1d7420dded]
+allow-bold=true
+background-color='#0d0d19192626'
+background-transparency-percent=21
+bold-color='#b4b4e1e1fdfd'
+bold-color-same-as-fg=true
+bold-is-bright=false
+cursor-background-color='rgb(0,163,255)'
+cursor-blink-mode='on'
+cursor-colors-set=true
+cursor-foreground-color='rgb(0,40,62)'
+default-size-columns=169
+default-size-rows=37
+font='MesloLGS NF 10'
+foreground-color='#b4b4e1e1fdfd'
+highlight-colors-set=false
+palette=['rgb(0,0,0)', 'rgb(255,0,113)', 'rgb(131,255,8)', 'rgb(20,255,8)', 'rgb(8,131,255)', 'rgb(131,8,255)', 'rgb(8,255,131)', 'rgb(84,202,253)', 'rgb(0,100,136)', 'rgb(255,0,113)', 'rgb(142,255,30)', 'rgb(20,255,8)', 'rgb(30,142,255)', 'rgb(142,30,255)', 'rgb(30,255,142)', 'rgb(194,194,194)']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Malware'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(46,52,54)'
+background-transparency-percent=7
+bold-is-bright=true
+default-size-columns=140
+font='MesloLGS NF 11'
+foreground-color='rgb(211,215,207)'
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(78,154,6)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
