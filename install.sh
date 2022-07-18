@@ -291,18 +291,20 @@ else
         printf "${RED}Powelevel10k installation failed${NC}\n"
       fi
 
-      # Nerd Font
-      FP=~/.local/share/fonts/MesloLGS\ NF\ Regular.ttf
-      if [ -f "$FP" ]; then
-        printf "${GREEN}MesloLGS NF is installed, please set this font in your Terminal${NC}\n"
-        printf "${GREEN}Edit>Preferences>Profile>Custom Font>${BLUE}MesloLGS NF Regular${NC}\n"
-      else
-        printf "${RED}Meslo font isn't installed${NC}\n"
-      fi
-      else
-        printf "${RED}Oh-My-Zsh installation failed${NC}\n"
-      fi
-      printf "${BLUE}Please log out from the current shell then log back in for see results.${NC}\n"
+    else
+      printf "${RED}Oh-My-Zsh installation failed${NC}\n"
+    fi
+    
+    # Nerd Font
+    FP=~/.local/share/fonts/MesloLGS\ NF\ Regular.ttf
+    if [ -f "$FP" ]; then
+      printf "${GREEN}MesloLGS NF is installed, please set this font in your Terminal${NC}\n"
+      printf "${GREEN}Edit>Preferences>Profile>Custom Font>${BLUE}MesloLGS NF Regular${NC}\n"
+    else
+      printf "${RED}Meslo font isn't installed${NC}\n"
+    fi
+
+    printf "${BLUE}Please log out from the current shell then log back in for see results.${NC}\n"
 
   else
     
