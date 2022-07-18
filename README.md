@@ -1,6 +1,60 @@
-# Configuración de Terminal en Linux
+# Contenido
 
-Además de mejorar la apariencia de la terminal de Linux, este facilita la vista y el acceso tanto a directorios como a archivos.
+- [Terminal de Linux Personalizable by SirHades696](#terminal-de-linux-personalizable-by-sirhades696)
+  * [Instalación Automática (Debian/Ubuntu) - Gnome-Terminal](#instalaci-n-autom-tica--debian-ubuntu----gnome-terminal)
+  * [Screenshots](#screenshots)
+  * [Requisitos y Plugins](#requisitos-y-plugins)
+    + [ZSH](#zsh)
+    + [Oh-My-ZSH](#oh-my-zsh)
+    + [Powerlevel10k](#powerlevel10k)
+    + [Colorls](#colorls)
+    + [BatCat o simplemente Bat](#batcat-o-simplemente-bat)
+    + [LSDeluxe](#lsdeluxe)
+    + [Paleta de Colores Terminal](#paleta-de-colores-terminal)
+
+# Terminal de Linux Personalizable by SirHades696
+
+![Screenshots](docs/terminal.gif)
+
+Personaliza la terminal de tu Linux, dale una vista fabulosa y fantástica.
+
+Plugins:
+
+* MesloLGS NerdFont (tipografía)
+* Colorls
+* LSD
+* Zsh
+* BatCat
+* Oh-My-Zsh
+* Powerlevel10k
+
+## Instalación Automática (Debian/Ubuntu) - Gnome-Terminal
+
+>Nota: Si tienes un perfil de colores personalizado, por favor, realiza una copia de seguridad ya que al ejecutar el script se va a sobrescribir tu configuración.
+
+>Puedes ejecutar los siguientes comandos:
+
+>Carpeta de respaldo
+
+`$ mkdir ~/mi_perfil_terminal/`
+
+>Para guardar la configuración (colores, etc.)
+
+`$ dconf dump /org/gnome/terminal/legacy/profiles:/ > ~/mi_perfil_terminal/gnome-terminal-profiles.dconf`
+
+>Para volver a cargar el perfil a gnome-terminal una vez concluida la instalación (No olvides agregar “MesloLGS NF Regular” como tipografía personaliza a la terminal).
+
+`$ dconf load /org/gnome/terminal/legacy/profiles:/ < ~/mi_perfil_terminal/gnome-terminal-profiles.dconf`
+
+¿Quieres ahorrarte la modificaciones manuales?
+
+Ejecuta las siguientes instrucciones en tu terminal.
+
+`$ wget https://github.com/SirHades696/conf_terminal/raw/main/install.sh`
+
+`$ sudo chmod +x install.sh`
+
+`$ ./install.sh`
 
 ## Screenshots
 

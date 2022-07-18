@@ -27,7 +27,7 @@ else
   printf "${BLUE}Customize your terminal with colors and icons.${NC}\n"
   printf "${BLUE}This installer customizes the terminal by installing:\n"
   printf "${GREEN}  * Nerd Font (MesloLGS NF)\n"
-  printf "  * Colors\n"
+  printf "  * Colorls\n"
   printf "  * LSD \n"
   printf "  * Zsh \n"
   printf "  * Oh-My-Zsh\n"
