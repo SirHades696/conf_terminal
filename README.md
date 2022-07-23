@@ -16,6 +16,8 @@
 
 ![Screenshots](docs/terminal.gif)
 
+All plugins: [Plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
+
 Personaliza la terminal de tu Linux, dale una vista fabulosa y fantástica.
 
 Plugins:

@@ -91,7 +91,8 @@ plugins=(
 	zsh-autocomplete
 	dirhistory
 	jsontools
-	colored-man-pages	
+	colored-man-pages
+	autojump
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -124,6 +125,18 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# alias GIT
+alias gs='git status'
+alias ga='git add .'
+alias gf='git fetch'
+alias gr='git rebase'
+alias gp='git push'
+alias gd='git diff'
+alias gc='git commit'
+alias gh='git checkout'
+alias gst='git stash'
+alias gl='git log --oneline --graph'
 
 # some alias
 alias grep='grep --color=auto'
